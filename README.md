@@ -51,7 +51,7 @@ Tasks:
       - [ ] Intel® Distribution for Python
       - [ ] Python 3.8
       - [ ] Git
-      - [ ] GunPG
+      - [ ] GnuPG
       - [ ] Visual Studio 2022
       - [ ] Visual Studio Code
       - [ ] Ubuntu 22.04 WSL
