@@ -42,6 +42,8 @@ Tasks:
       - [ ] Cuda®
       - [ ] Intel® Distribution for Python
       - [ ] Python 3.8
+      - [ ] Git
+      - [ ] GunPG
       - [ ] Ubuntu 22.04 WSL
   - [ ] Limitations
     - [ ] Windows Update
