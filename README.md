@@ -48,6 +48,7 @@ Tasks:
     - [ ] Hardwares
     - [ ] Softwares
       - [ ] Cuda®
+        - [ ] FFmpeg with NVIDIA GPU Hardware Acceleration
       - [ ] Intel® Distribution for Python
       - [ ] Python 3.8
       - [ ] Git
