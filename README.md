@@ -52,6 +52,8 @@ Tasks:
       - [ ] Python 3.8
       - [ ] Git
       - [ ] GunPG
+      - [ ] Visual Studio 2022
+      - [ ] Visual Studio Code
       - [ ] Ubuntu 22.04 WSL
   - [ ] Limitations
     - [ ] Windows Update
