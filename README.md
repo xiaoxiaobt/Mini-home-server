@@ -1,4 +1,4 @@
-# Mini-home-server
+# Mini home server
 
 > **Warning**
 >
@@ -11,22 +11,30 @@ Tasks:
   - [ ] Asus DDNS
   - [ ] CNAME
 - [ ] SSH
+  - [ ] Connect to intranet computers
+  - [ ] Connect to WSL via Windows
+  - [ ] Changing default shell for Windows
 - [ ] SMB
   - [ ] SMBv2/SMBv3
+- [ ] Remote desktop
+  - [ ] TODO: Microsoft remote desktop
+  - [ ] TeamViewer
 - [ ] Website hosting (multiple)
   - [ ] Port forwarding
   - [ ] Reverse proxy with NGINX
     - [ ] Compression
+    - [ ] Multiple servers
+    - [ ] Redirect HTTP to HTTPS
     - [ ] Supports for IPv6
     - [ ] Fallback
   - [ ] HTTPS with certbot
 - [ ] Security
-  - Router-level protection
+  - [ ] Router-level protection
     - [ ] DDoS protection (Asus)
-  - Website-level protection
+  - [ ] Website-level protection
     - [ ] DNS CAA
     - [ ] Robots.txt
-  - [ ] OS level protection
+  - [ ] OS-level protection
     - [ ] UAC
     - [ ] TPM
     - [ ] Memory integrity
