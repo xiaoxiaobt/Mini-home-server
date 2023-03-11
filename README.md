@@ -24,6 +24,8 @@ Tasks:
   - [ ] Reverse proxy with NGINX
     - [ ] Compression
     - [ ] Multiple servers
+      - [ ] Sub-domain
+      - [ ] (Sub-)directory & slug direction
     - [ ] Redirect HTTP to HTTPS
     - [ ] Supports for IPv6
     - [ ] Fallback
@@ -56,6 +58,7 @@ Tasks:
       - [ ] Visual Studio 2022
       - [ ] Visual Studio Code
       - [ ] Ubuntu 22.04 WSL
+        - [ ] `screen` in WSL
   - [ ] Limitations
     - [ ] Windows Update
     - [ ] OS
