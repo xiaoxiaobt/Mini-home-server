@@ -8,7 +8,7 @@
 
 The home server is a desktop computer located at home that provides services for my own convenience and for users who access websites hosted on the server. At the time of writing, the home server is running on Windows 11 Pro, with Ubuntu 22.04 LTS Windows Sub-linux system (WSL) on the side. Currently, the home server is running the following services:
 
-- Secure web hosting
+- Secure web hosting (with NGINX)
   - Private JupyterLab: <img alt="Jupyter" style="height:1rem" src="./misc/svg/jupyter.svg" />
   - Private Code Server: <img alt="Code server" style="height:1rem" src="./misc/svg/code-server.svg" /> 
   - Kodimpi (Backup): <img alt="Kodimpi" style="height:1rem" src="./misc/svg/kodimpi.svg" />
@@ -17,7 +17,7 @@ The home server is a desktop computer located at home that provides services for
 - Remote desktop
   - TeamViewer (3rd-party managed service)
   - Microsoft Remote Desktop
-- SSH
+- SSH Server
 - Media and file services
   - SMBv2/v3 local share with SMB Direct
 - Dedicated light-weight computing resource in full-control (via SSH/Remote Desktop/Jupyter/Code Server)
@@ -72,8 +72,7 @@ Tasks:
     - [ ] Softwares
       - [ ] Cuda®
         - [ ] FFmpeg with NVIDIA GPU Hardware Acceleration
-      - [ ] Intel® Distribution for Python
-      - [ ] Python 3.8
+      - [ ] Python 3.11
       - [ ] Git
       - [ ] GnuPG
       - [ ] Visual Studio 2022
